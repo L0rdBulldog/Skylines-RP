@@ -1,60 +1,65 @@
 [
 
 	{
-		"type": "Territories",
-		"title": "Amaci 2",
+		"type": "Green Zones",
+		"title": "LSC",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -58.404, "lng": -52.518},
-			{"lat": -55.896, "lng": -55.528},
-			{"lat": -54.383, "lng": -55.297},
-			{"lat": -54.255, "lng": -52.891},
-			{"lat": -55.325, "lng": -49.024},
-			{"lat": -56.124, "lng": -46.497},
-			{"lat": -56.410, "lng": -46.585},
-			{"lat": -57.707, "lng": -50.002}
+					{"lat": -54.831, "lng": -23.480},
+					{"lat": -54.199, "lng": -26.347},
+					{"lat": -54.551, "lng": -27.050},
+					{"lat": -56.235, "lng": -25.325},
+					{"lat": -56.015, "lng": -23.919}
+
+
+		]
+	},	{
+		"type": "Green Zones",
+		"title": "UWU",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+					{"lat": -66.855, "lng": -33.063},
+					{"lat": -67.410, "lng": -33.085},
+					{"lat": -68.162, "lng": -33.008},
+					{"lat": -68.195, "lng": -30.942},
+					{"lat": -67.360, "lng": -31.019},
+					{"lat": -66.881, "lng": -31.030}
+
 
 		]
 	},
+
+	
+	
+	
 	{
-		"type": "Chop Shop",
-		"title": "Chop Shop 1",
+		"type": "Gang MLO Locations",
+		"title": "Lost Mc",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
+		"strokecolor": "FFF000",
+		"fillcolor": "FFF000",
 		"latlngarray": [
-			{"lat": -76.067, "lng": -48.180},
-			{"lat": -76.233, "lng": -48.411},
-			{"lat": -76.399, "lng": -48.070},
-			{"lat": -76.217, "lng": -48.795}
+					{"lat": -54.431, "lng": 13.442},
+					{"lat": -55.166, "lng": 14.651},
+					{"lat": -55.222, "lng": 12.036},
+					{"lat": -55.776, "lng": 13.607}
+
+
 		
 
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Amaci 1",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
-		"latlngarray": [
 
-			{"lat": -53.191, "lng": -26.271},
-			{"lat": -53.928, "lng": -22.734},
-			{"lat": -55.947, "lng": -23.393},
-			{"lat": -56.211, "lng": -25.173},
-			{"lat": -54.276, "lng": -27.161}
-			
-		]
-	}
 
 		
 ]
