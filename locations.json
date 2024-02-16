@@ -17,7 +17,9 @@
 
 
 		]
-	},	{
+	},	
+	
+	{
 		"type": "Green Zones",
 		"title": "UWU",
 		"notes": "",
@@ -37,6 +39,48 @@
 		]
 	},
 
+		
+	{
+		"type": "Green Zones",
+		"title": "WhiteWidow",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+					{"lat": -53.428, "lng": -12.221},
+					{"lat": -53.559, "lng": -11.562},
+					{"lat": -54.187, "lng": -11.957},
+					{"lat": -53.961, "lng": -12.649}
+
+
+
+
+		]
+	},
+
+	{
+		"type": "Green Zones",
+		"title": "Vanilla Unicorn",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+					{"lat": -70.068, "lng": -10.787},
+					{"lat": -70.180, "lng": -12.534},
+					{"lat": -70.568, "lng": -12.006},
+					{"lat": -70.269, "lng": -10.556}
+
+
+
+
+		]
+	},
+
+
 	
 	
 	
@@ -48,6 +92,26 @@
 		"order": 0,
 		"strokecolor": "FFF000",
 		"fillcolor": "FFF000",
+		"latlngarray": [
+					{"lat": -54.431, "lng": 13.442},
+					{"lat": -55.166, "lng": 14.651},
+					{"lat": -55.222, "lng": 12.036},
+					{"lat": -55.776, "lng": 13.607}
+
+
+		
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "Cannabis Kings",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
 		"latlngarray": [
 					{"lat": -54.431, "lng": 13.442},
 					{"lat": -55.166, "lng": 14.651},
