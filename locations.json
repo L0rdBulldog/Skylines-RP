@@ -1,44 +1,24 @@
 [
 
 	{
-		"type": "Gang MLO Locations",
-		"title": "The Lost MC",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFF700",
-		"fillcolor": "FFF700",
-		"latlngarray": [
-			
-			{"lat": -55.155, "lng": 14.630},
-			{"lat": -54.420, "lng": 13.421},
-			{"lat": -55.243, "lng": 12.081},
-			{"lat": -55.740, "lng": 13.586}
-
-
-
-		]
-	},
-	{
 		"type": "Green Zones",
 		"title": "LSC",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -53.402, "lng": -26.201},
-			{"lat": -55.121, "lng": -28.486},
-			{"lat": -56.625, "lng": -26.816},
-			{"lat": -55.942, "lng": -23.740},
-			{"lat": -54.136, "lng": -22.828}
+			{"lat": -54.831, "lng": -23.480},
+			{"lat": -54.199, "lng": -26.347},
+			{"lat": -54.551, "lng": -27.050},
+			{"lat": -56.235, "lng": -25.325},
+			{"lat": -56.015, "lng": -23.919}
 
-		
 
 		]
-	},
-{
+	},	
+	{
 		"type": "Green Zones",
 		"title": "UWU",
 		"notes": "",
@@ -55,47 +35,85 @@
 			{"lat": -66.881, "lng": -31.030}
 
 
+		]
+	},
+	{
+		"type": "Green Zones",
+		"title": "WhiteWidow",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -53.428, "lng": -12.221},
+			{"lat": -53.559, "lng": -11.562},
+			{"lat": -54.187, "lng": -11.957},
+			{"lat": -53.961, "lng": -12.649}
+
+
+
+
+		]
+	},
+	{
+		"type": "Green Zones",
+		"title": "Vanilla Unicorn",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -70.068, "lng": -10.787},
+			{"lat": -70.180, "lng": -12.534},
+			{"lat": -70.568, "lng": -12.006},
+			{"lat": -70.269, "lng": -10.556}
+
+
+
+
+		]
+	},
+	{
+		"type": "Gang MLO Locations",
+		"title": "Lost Mc",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFF000",
+		"fillcolor": "FFF000",
+		"latlngarray": [
+			{"lat": -54.431, "lng": 13.442},
+			{"lat": -55.166, "lng": 14.651},
+			{"lat": -55.222, "lng": 12.036},
+			{"lat": -55.776, "lng": 13.607}
+
 
 		
 
 		]
 	},
-	
 	{
-		"type": "Chop Shop",
-		"title": "Chop Shop 2",
+		"type": "Gang MLO Locations",
+		"title": "Cannabis Kings",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": 38.293, "lng": 34.278},
-			{"lat": 38.069, "lng": 33.784},
-			{"lat": 37.809, "lng": 33.937},
-			{"lat": 38.052, "lng": 34.443}
+			{"lat": -54.431, "lng": 13.442},
+			{"lat": -55.166, "lng": 14.651},
+			{"lat": -55.222, "lng": 12.036},
+			{"lat": -55.776, "lng": 13.607}
+
+
 		
 
-		]
-	},
-	{
-		"type": "The Block",
-		"title": "Amaci 1",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
-		"latlngarray": [
-
-			{"lat": -53.191, "lng": -26.271},
-			{"lat": -53.928, "lng": -22.734},
-			{"lat": -55.947, "lng": -23.393},
-			{"lat": -56.211, "lng": -25.173},
-			{"lat": -54.276, "lng": -27.161}
-			
 		]
 	}
+
 
 		
 ]
