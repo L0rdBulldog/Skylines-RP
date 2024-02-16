@@ -46,10 +46,12 @@
 		"strokecolor": "00FF55",
 		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -53.428, "lng": -12.221},
-			{"lat": -53.559, "lng": -11.562},
-			{"lat": -54.187, "lng": -11.957},
-			{"lat": -53.961, "lng": -12.649}
+			{"lat": -54.447, "lng": -7.313},
+			{"lat": -54.236, "lng": -8.247},
+			{"lat": -55.043, "lng": -8.719},
+			{"lat": -55.313, "lng": -7.808}
+
+
 
 
 
@@ -75,6 +77,68 @@
 
 		]
 	},
+
+		{
+		"type": "Green Zones",
+		"title": "Bahama Mama",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -61.881, "lng": -54.922},
+			{"lat": -62.211, "lng": -56.186},
+			{"lat": -63.277, "lng": -53.966},
+			{"lat": -63.277, "lng": -53.966}
+
+
+
+
+		]
+	},
+
+		{
+		"type": "Green Zones",
+		"title": "Bean Machine",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -61.881, "lng": -54.922},
+			{"lat": -62.211, "lng": -56.186},
+			{"lat": -63.277, "lng": -53.966},
+			{"lat": -63.277, "lng": -53.966}
+
+
+
+
+		]
+	},
+	
+		{
+		"type": "Green Zones",
+		"title": "Burger Shot",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -65.699, "lng": -48.857},
+			{"lat": -66.023, "lng": -50.032},
+			{"lat": -66.103, "lng": -48.186},
+			{"lat": -66.400, "lng": -49.428},
+
+
+
+
+
+		]
+	},
+	
 	{
 		"type": "Gang MLO Locations",
 		"title": "Lost Mc",
@@ -94,6 +158,27 @@
 
 		]
 	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "Lost Mc",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFF000",
+		"fillcolor": "FFF000",
+		"latlngarray": [
+			{"lat": -54.431, "lng": 13.442},
+			{"lat": -55.166, "lng": 14.651},
+			{"lat": -55.222, "lng": 12.036},
+			{"lat": -55.776, "lng": 13.607}
+
+
+		
+
+		]
+	},
+	
 	{
 		"type": "Gang MLO Locations",
 		"title": "Cannabis Kings",
@@ -103,10 +188,12 @@
 		"strokecolor": "00FF55",
 		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -54.431, "lng": 13.442},
-			{"lat": -55.166, "lng": 14.651},
-			{"lat": -55.222, "lng": 12.036},
-			{"lat": -55.776, "lng": 13.607}
+			{"lat": -47.451, "lng": -28.175},
+			{"lat": -47.518, "lng": -26.857},
+			{"lat": -48.364, "lng": -26.922},
+			{"lat": -48.254, "lng": -28.351}
+
+
 
 
 		
