@@ -87,10 +87,12 @@
 		"strokecolor": "00FF55",
 		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -61.881, "lng": -54.922},
-			{"lat": -62.211, "lng": -56.186},
-			{"lat": -63.277, "lng": -53.966},
-			{"lat": -63.277, "lng": -53.966}
+			{"lat": -61.857, "lng": -54.878},
+			{"lat": -62.482, "lng": -54.142},
+			{"lat": -62.891, "lng": -55.472},
+			{"lat": -62.258, "lng": -56.317}
+
+
 
 
 
@@ -147,10 +149,12 @@
 		"strokecolor": "00FF55",
 		"fillcolor": "00FF55",
 		"latlngarray": [
-			{"lat": -65.699, "lng": -48.857},
-			{"lat": -66.023, "lng": -50.032},
-			{"lat": -66.103, "lng": -48.186},
-			{"lat": -66.400, "lng": -49.428}
+			{"lat": -65.644, "lng": -48.898},
+			{"lat": -66.266, "lng": -47.876},
+			{"lat": -66.569, "lng": -48.942},
+			{"lat": -65.941, "lng": -50.084}
+
+
 
 
 
@@ -228,26 +232,6 @@
 		]
 	},
 
-		{
-		"type": "Gang MLO Locations",
-		"title": "Lost Mc",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFF000",
-		"fillcolor": "FFF000",
-		"latlngarray": [
-			{"lat": -54.431, "lng": 13.442},
-			{"lat": -55.166, "lng": 14.651},
-			{"lat": -55.222, "lng": 12.036},
-			{"lat": -55.776, "lng": 13.607}
-
-
-		
-
-		]
-	},
-	
 	{
 		"type": "Gang MLO Locations",
 		"title": "Cannabis Kings",
