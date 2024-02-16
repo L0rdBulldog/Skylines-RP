@@ -158,6 +158,55 @@
 
 		]
 	},
+
+	{
+		"type": "Green Zones",
+		"title": "Casino",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -55.001, "lng": 12.037},
+			{"lat": -53.928, "lng": 8.917},
+			{"lat": -52.834, "lng": 10.389},
+			{"lat": -51.404, "lng": 12.158},
+			{"lat": -52.077, "lng": 14.014},
+			{"lat": -53.656, "lng": 12.520},
+			{"lat": -54.295, "lng": 12.015},
+			{"lat": -54.500, "lng": 12.520}
+
+
+
+
+
+		]
+	},
+
+		{
+		"type": "Green Zones",
+		"title": "Cluck N Bell",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -57.059, "lng": -18.608},
+			{"lat": -56.759, "lng": -19.718},
+			{"lat": -57.593, "lng": -20.256},
+			{"lat": -57.863, "lng": -19.102}
+
+
+
+
+
+
+
+
+		]
+	},
 	
 	{
 		"type": "Gang MLO Locations",
