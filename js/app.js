@@ -105,7 +105,7 @@ $(function() {
 			name: 'Green Zones',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
 		},
 		{
 			name: 'Gang MLO Locations',
