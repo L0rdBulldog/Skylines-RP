@@ -117,6 +117,26 @@
 
 		]
 	},
+
+			{
+		"type": "Green Zones",
+		"title": "Pizza This",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -61.881, "lng": -54.922},
+			{"lat": -62.211, "lng": -56.186},
+			{"lat": -63.277, "lng": -53.966},
+			{"lat": -63.277, "lng": -53.966}
+
+
+
+
+		]
+	},
 	
 		{
 		"type": "Green Zones",
@@ -130,7 +150,7 @@
 			{"lat": -65.699, "lng": -48.857},
 			{"lat": -66.023, "lng": -50.032},
 			{"lat": -66.103, "lng": -48.186},
-			{"lat": -66.400, "lng": -49.428},
+			{"lat": -66.400, "lng": -49.428}
 
 
 
