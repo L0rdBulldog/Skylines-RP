@@ -240,7 +240,100 @@
 
 		{
 		"type": "Gang MLO Locations",
-		"title": "MCS ",
+		"title": "SMC",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "007CFF",
+		"fillcolor": "007CFF",
+		"latlngarray": [
+			{"lat": -65.531, "lng": -33.731},
+			{"lat": -65.499, "lng": -39.313},
+			{"lat": -66.692, "lng": -39.477},
+			{"lat": -68.269, "lng": -37.038},
+			{"lat": -67.638, "lng": -34.226},
+			{"lat": -66.904, "lng": -33.830}
+
+
+		
+
+		]
+	},
+	
+	{
+		"type": "Gang MLO Locations",
+		"title": "Marabunta",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF9E00",
+		"fillcolor": "FF9E00",
+		"latlngarray": [
+			{"lat": -72.489, "lng": 21.976},
+			{"lat": -73.338, "lng": 17.340},
+			{"lat": -74.867, "lng": 19.403},
+			{"lat": -74.331, "lng": 25.665},
+			{"lat": -73.346, "lng": 23.710}
+
+
+
+
+		
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "familias",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "AA00FF",
+		"fillcolor": "AA00FF",
+		"latlngarray": [
+			{"lat": -73.129, "lng": -16.172},
+			{"lat": -72.247, "lng": -19.776},
+			{"lat": -72.885, "lng": -21.709},
+			{"lat": -73.969, "lng": -21.753},
+			{"lat": -74.362, "lng": -19.908}
+
+	
+
+		]
+	},
+
+
+			{
+		"type": "Gang MLO Locations",
+		"title": "The Life Takers",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "B0B0B0",
+		"fillcolor": "B0B0B0",
+		"latlngarray": [
+			{"lat": -43.943, "lng": -65.283},
+			{"lat": -43.753, "lng": -68.557},
+			{"lat": -40.210, "lng": -68.139},
+			{"lat": -39.399, "lng": -69.128},
+			{"lat": -39.620, "lng": -71.501},
+			{"lat": -40.210, "lng": -73.347},
+			{"lat": -43.737, "lng": -74.533},
+			{"lat": -47.781, "lng": -73.413},
+			{"lat": -51.397, "lng": -70.029},
+			{"lat": -47.500, "lng": -62.295},
+			{"lat": -45.473, "lng": -63.020}
+
+
+	
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "MCS",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
@@ -310,13 +403,16 @@
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "00FF55",
-		"fillcolor": "00FF55",
+		"strokecolor": "0EA666",
+		"fillcolor": "0EA666",
 		"latlngarray": [
-			{"lat": -47.451, "lng": -28.175},
-			{"lat": -47.518, "lng": -26.857},
-			{"lat": -48.364, "lng": -26.922},
-			{"lat": -48.254, "lng": -28.351}
+			{"lat": -47.430, "lng": -28.263},
+			{"lat": -48.198, "lng": -28.483},
+			{"lat": -48.066, "lng": -30.416},
+			{"lat": -50.613, "lng": -30.592},
+			{"lat": -50.697, "lng": -21.737},
+			{"lat": -48.431, "lng": -21.693},
+			{"lat": -48.388, "lng": -26.769}
 
 
 
